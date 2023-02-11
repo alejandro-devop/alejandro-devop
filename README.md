@@ -1,7 +1,11 @@
 # alejandro-devop
 
-I considere my self a passionate for code
+I consider myself a passionate for programming, fan of the motto: "stay foolish stay hungry". 
 
+--- 
+
+> **Note**: 
+:construction: My overview is underconstruction 
 
 
 ## My used languages: 
